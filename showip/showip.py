@@ -9,4 +9,4 @@ res = result.read()
 for line in res.splitlines():
     if "*" in line:
         nh = line.split()[1]
-        print(nh)l
+        print(nh)ljhkjhkjh
